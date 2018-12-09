@@ -1,28 +1,25 @@
 ---
 title: Welcome to the Blog!
 date: "2018-12-09"
-featuredImage: './books.jpg'
+featuredImage: './featured.jpg'
 ---
 
-Welcome to my new blog, I hope you enjoy your stay!
+Welcome to the new blog, I hope you enjoy your stay!
 
 <!-- end -->
 
-## Let me introduce myself.
+## Hi, Let me introduce myself.
 
-So basically I'm just Front End Developer who has the ability to transform from PSD to HTML. Here is some my latest experience:
+My full name is Aulia Mahardika, So basically I'm just Front End Developer who have capabililty to transform PSD to HTML.
 
-*   Learning how to become web design in great news media company.
-*   Web designing for Sound of Music Jakarta concert.
-*   Developing CMS for Marketing Communication Agency.
-*   Becoming one of a great tech team member in startup company.
-*   Now, continuing my dev life in Canadian Company.
 
-From now, I'll try to write some documentation for my progress learning. Also, will write some of my journey exploring Indonesia's nature.
-Soon, a new page for special gallery photos. Btw, Sometimes I'll write in indo style.
-Hope you enjoy my story.
+*   Morbi sit amet turpis a purus   
+*   Etiam tempor ultricies mi
+    *   Maecenas auctor enim a volutpat mattis
+*   Sed urna justo, scelerisque consectetur pharetra vitae
 
-<!-- 
+Nam nec augue vel nisl placerat faucibus. Donec congue **nulla quis nunc** sagittis placerat. Pellentesque non tincidunt velit, cursus porttitor tellus. Suspendisse pulvinar tortor at _augue aliquam sagittis_. Duis non pulvinar augue. Ut tristique dignissim ligula, eget tempus diam molestie non. Nulla ultrices eleifend rutrum. Mauris convallis sollicitudin dui, pulvinar suscipit velit. Maecenas viverra finibus metus vitae blandit.
+
 ### Pellentesque consectetur facilisis venenatis
 
 Nam ullamcorper, orci nec tempor hendrerit, lorem nunc laoreet diam, vel gravida sem mi quis augue. Nunc odio velit, facilisis quis dictum non, facilisis quis felis. Vivamus [elementum dapibus nibh](https://google.com), eget aliquet nunc luctus maximus. Sed finibus risus eget ultrices maximus. Aliquam commodo consectetur diam eget tristique. Nunc quis erat quis felis fringilla tempus. Cras tempor nibh dolor, ac lacinia lacus ultrices eu.
@@ -61,4 +58,4 @@ $(document).ready(function() {
 
 Maecenas non scelerisque leo. Sed id purus fringilla, consequat magna non, faucibus neque. Cras ornare nisi a lectus ultricies convallis. Integer tristique dictum eros, et elementum ante consectetur eget. Phasellus sollicitudin est vestibulum suscipit pellentesque. Duis in eros cursus magna laoreet aliquam vel a lectus. Nulla ut nisi vitae ipsum sollicitudin vestibulum. Aenean sit amet mattis odio. Vestibulum ultrices sed ipsum nec pretium. Integer non turpis nunc. Praesent tincidunt tincidunt alique
 
-Integer mollis dolor non libero placerat, ut efficitur nisi ultricies. Etiam ac lacinia urna, eget ornare nunc. Suspendisse eget eros id turpis gravida semper. Duis ornare lorem et est pellentesque, quis rhoncus leo vestibulum. Nullam eu nulla ut elit rutrum iaculis. Cras a laoreet elit, in aliquet erat. Sed interdum varius posuere. Pellentesque eget luctus erat. Nam quis sem in ligula efficitur bibendum. -->
+Integer mollis dolor non libero placerat, ut efficitur nisi ultricies. Etiam ac lacinia urna, eget ornare nunc. Suspendisse eget eros id turpis gravida semper. Duis ornare lorem et est pellentesque, quis rhoncus leo vestibulum. Nullam eu nulla ut elit rutrum iaculis. Cras a laoreet elit, in aliquet erat. Sed interdum varius posuere. Pellentesque eget luctus erat. Nam quis sem in ligula efficitur bibendum.

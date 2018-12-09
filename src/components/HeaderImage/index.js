@@ -3,6 +3,7 @@ import Link from 'gatsby-link';
 
 import Wrapper from './Wrapper';
 import imgSrc from '../../main.jpg';
+// import imgCore from ''
 
 function HeaderImage() {
   return (
