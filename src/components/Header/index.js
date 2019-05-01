@@ -22,7 +22,7 @@ function Header({ config }) {
         <P>{description}</P>
         {social &&
           <Social
-            website={social.website}
+            // website={social.website}
             github={social.github}
             twitter={social.twitter}
             linkedin={social.linkedin}
