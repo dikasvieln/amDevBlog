@@ -26,4 +26,4 @@ Keterbatasan ingatan manusia membutuhkan tampilan yang sederhana atau banyak tam
 
 sumber: 
 * [Shneiderman, B., 1998, Designing the User Interface – Strategies for Effective Human-Computer Interaction, Third Edition, Addison-Wesley, USA.]
-* (http://iwanbinanto.com/2008/07/21/8-aturan-emas-desain-user-interface/)
+* [Sumber 1](http://iwanbinanto.com/2008/07/21/8-aturan-emas-desain-user-interface/)
