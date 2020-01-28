@@ -1,6 +1,6 @@
 ---
 title: Bahas tentang CDN (Content Delivery Network)
-date: "2019-01-26"
+date: "2020-01-26"
 ---
 
 ## Apa itu CDN
