@@ -13,7 +13,7 @@ Prosesnya ketika media data digital tersebut dibutuhkan, maka simpul server terd
 ## Kapan CDN dibutuhkan
 Alasan utama mengapa CDN itu dibutuhkan adalah untuk menambah pengalaman pengguna dalam konteks kecapatan membuka halaman sebuah situs. 
 
-Sebuah website memungkinkan ber-hosting di beberapa wilayah negara, akan tetapi kebanyakan akses pengguna berasal dari negara-negara yang berbeda. Sebagai contoh, apabila website anda berhosting di utara Amerika, GTMetrix akan memberikan laporan kepada anda tingkat performa akses website anda berdasarkan lokasi dimana anda berada.
+Sebuah website memungkinkan ber-hosting di beberapa wilayah negara, akan tetapi kebanyakan akses pengguna berasal dari negara-negara yang berbeda. Sebagai contoh, apabila website anda berhosting di Amerika bagian utara, GTMetrix akan memberikan laporan kepada anda tingkat performa akses website anda berdasarkan lokasi dimana anda berada.
 
 Untuk para pengguna CDN global dari wilayah eropa memungkinkan untuk dapat mengunduh statik konten mereka dari sumber terdekat. Semisal, apabila pengguna ingin mendapatkan konten digital dari wilayah London, UK,  agar dapat mendapatkan konten yang sama maka tidak perlu sampai mengakses simpul server dari wilayah seberang samudera Atlantis. 
 
