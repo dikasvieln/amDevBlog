@@ -12,11 +12,11 @@ Welcome to my new blog, I hope you enjoy your stay!
 
 So basically I'm just Front End Developer who has the ability to transform from PSD to HTML. Here is some my latest experience:
 
-*   Learning how to become web design in great news media company.
+*   Learning how to become web design in great media company.
 *   Web designing for Sound of Music Jakarta concert.
 *   Developing CMS for Marketing Communication Agency.
 *   Becoming one of a great tech team member in startup company.
-*   Now, continuing my dev life in Canadian Company.
+*   Now, continuing my dev life in creative agency company.
 
 From now, I'll try to write some documentation for my progress learning. Also, will write some of my journey exploring Indonesia's nature.
 Soon, a new page for special gallery photos. Btw, Sometimes I'll write in indo style.

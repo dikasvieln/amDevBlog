@@ -22,6 +22,8 @@ class BlogPostTemplate extends React.Component {
     const author = get(this.props, 'data.site.siteMetadata.author');
     const { previous, next } = this.props.pageContext;
 
+    // console.log(post, 'test')
+
     let url = '';
     if (typeof window !== `undefined`) {
       url = window.location.href;
