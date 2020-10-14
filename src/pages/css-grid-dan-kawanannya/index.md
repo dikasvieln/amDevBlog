@@ -28,5 +28,4 @@ Fleksibilitas dalam CSS grid yaitu pengaturan konten yang mampu tumpang tindih d
 Grid layout akan menjadi spesifikasi yang hebat apabila jika digabungkan dengan properti kawananannya yakni flexbox.
 
 ref:
-(source1)[https://moderncss.dev/]
-(source2)[]
+[source 1](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)

@@ -27,11 +27,9 @@ class BlogPostTemplate extends React.Component {
     const disqusConfig = {
       shortname: process.env.GATSBY_DISQUS_NAME,
       config: { 
-        identifier: post
+        identifier: this.props.slug
       },
-    }
-
-    // console.log(post, 'test')
+    };
 
     let url = '';
     if (typeof window !== `undefined`) {
@@ -63,7 +61,7 @@ class BlogPostTemplate extends React.Component {
             </ArticleHeader>
             <Article>
               <div dangerouslySetInnerHTML={{ __html: post.html }} />
-              
+             
             </Article>
 
             {userConfig.showShareButtons && (
@@ -71,6 +69,7 @@ class BlogPostTemplate extends React.Component {
             )}
             <br />
             <DiscussionEmbed {...disqusConfig} />
+            {/* <pre>{disqusConfig.shortname}</pre> */}
           </Card>
           
 
