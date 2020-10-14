@@ -7,6 +7,7 @@ const ShareButton = styled.a`
   margin: 5px;
   padding: 5px 15px;
   text-decoration: none;
+  margin-bottom: 40px;
 
   svg {
     display: inline-block;

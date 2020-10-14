@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Dev Blog', // Required
-  author: 'Dika-Dika', // Required
-  description: 'FE Dev | QA | Dreamer',
+  author: 'Aulia Dika', // Required
+  description: 'Just a learner',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,

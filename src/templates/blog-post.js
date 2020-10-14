@@ -16,11 +16,20 @@ import FeaturedImage from '../components/FeaturedImage';
 import PageNav from '../components/PageNav';
 import Share from '../components/Share';
 
+import { DiscussionEmbed } from 'disqus-react';
+
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark;
     const author = get(this.props, 'data.site.siteMetadata.author');
     const { previous, next } = this.props.pageContext;
+
+    const disqusConfig = {
+      shortname: process.env.GATSBY_DISQUS_NAME,
+      config: { 
+        identifier: post
+      },
+    }
 
     // console.log(post, 'test')
 
@@ -54,11 +63,16 @@ class BlogPostTemplate extends React.Component {
             </ArticleHeader>
             <Article>
               <div dangerouslySetInnerHTML={{ __html: post.html }} />
+              
             </Article>
+
             {userConfig.showShareButtons && (
               <Share url={url} title={post.frontmatter.title} />
             )}
+            <br />
+            <DiscussionEmbed {...disqusConfig} />
           </Card>
+          
 
           <PageNav>
             {previous && (
