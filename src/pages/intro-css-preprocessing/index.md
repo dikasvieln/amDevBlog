@@ -31,6 +31,11 @@ Untuk bagian _nested syntax_ yang dimaksud adalah kapabilitas suatu css preproce
 ```
 Contoh diatas merupakan permisalan dari suatu syntax SCSS
 
+
 ## Kesimpulan CSS Preprocessor
 
 Secara keseluruhan CSS preprocessor mampu menyediakan beberapa fitur yang menguntungkan dan memberikan berbagai macam fitur cara untuk menyederhanakan _syntax_ CSS.
+
+[source1](https://www.template.net/tutorials/css-preprocessor/)   
+[source2](https://www.straightnorth.com/insights/css-preprocessing/)   
+[source3](https://www.straightnorth.com/insights/css-preprocessing/)

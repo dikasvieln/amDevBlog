@@ -1,0 +1,6 @@
+---
+title: Design System UI(User Interface) Tampilan Antar Muka
+date: "2020-11-05"
+---
+
+Beberapa perusahaan besar seperti Microsoft, IBM, dan google mengubah sudut pandang desain _brand digital product_ mereka kedalam ciri khas yang spesifik atau bisa disebut _Design System_. 
