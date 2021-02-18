@@ -1,6 +1,6 @@
 ---
 title: New Journal Daily Notes (2021)
-date: "2021-01-4"
+date: "2021-01-04"
 ---
 
 ##Welcome 2021
