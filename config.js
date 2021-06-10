@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Dev Blog', // Required
   author: 'Aulia Dika', // Required
-  description: 'Just a learner',
+  description: 'UI & UX Dev Enthusiast',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,

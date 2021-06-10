@@ -4,6 +4,7 @@ date: "2020-02-05"
 ---
 
 ## Apa itu headless CMS
+
 Sederhananya headless content management system merupakan satu bagian dari cms yang dibangun dari dasar sebagai gudang konten namun bisa tetap dapat menggunakan konsep Restful untuk menampilkan data disemua tampilan antarmuka.
 Konsep "headless" diambil dari bagian kepala(front-end) sebuah web dan tidak mengambil sebagian dari "badan"(back-end)
 
