@@ -1,5 +1,5 @@
 ---
-title: MAY 2021 Notes (2021)
+title: MAY 2021 Notes
 date: "2021-05-27"
 ---
 
