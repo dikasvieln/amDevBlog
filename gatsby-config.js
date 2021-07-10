@@ -6,6 +6,16 @@ require("dotenv").config({
 module.exports = {
   siteMetadata: {
     title: userConfig.title,
+    menuLinks: [
+      {
+        name: 'Home',
+        link: '/'
+      },
+      {
+        name: 'Portfolios',
+        link: '/portfolios'
+      }
+    ],
     author: userConfig.author,
     description: userConfig.description,
     siteUrl: userConfig.siteUrl,
