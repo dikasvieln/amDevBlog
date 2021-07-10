@@ -12,6 +12,8 @@ import { StaticQuery } from 'gatsby';
 class Template extends React.Component {
   render() {
     const { children } = this.props;
+    // const { isShown } = true;
+    // const post = this.props.data.markdownRemark;
     return (
       <div>
         
@@ -30,19 +32,13 @@ class Template extends React.Component {
         `}
         render={data => (
           <React.Fragment>
-            {/* <Helmet
-              title={'title'}
-              meta={[
-                { name: 'description', content: 'Sample' },
-                { name: 'keywords', content: 'sample, something' },
-              ]}
-            >
-          </Helmet> */}
+           
+  
           <Header config={userConfig} menuLinks={data.site.siteMetadata.menuLinks} siteTitle={data.site.siteMetadata.title} />
           </React.Fragment>
         )
         }></StaticQuery>
-
+    
         {children}
       </div>
     );

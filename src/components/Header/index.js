@@ -16,7 +16,7 @@ function Header({ config, siteTitle, menuLinks }) {
 
   return (
     <div>
-      <nav style={{ border: "1px solid #e0e6ed", background: "#fff", marginBottom: "50px"  }}>
+      <nav style={{ border: "1px solid #e0e6ed", background: "#fff", marginBottom: "50px", position: 'fixed', width: '100%', zIndex: '5'  }}>
             <ul style={{ display: "flex", flex: 1, fontSize: '1.6em'}}>
               {menuLinks.map(link => (
                 <li
@@ -39,19 +39,22 @@ function Header({ config, siteTitle, menuLinks }) {
       </div> */}
       
       <Wrapper>
-        {userConfig.showHeaderImage && (
-          <HeaderImage/>
-        )}
-        <H1><Link to="/">{author}</Link></H1>
-        <P>{description}</P>
-        {social &&
-          <Social
-            // website={social.website}
-            github={social.github}
-            twitter={social.twitter}
-            linkedin={social.linkedin}
-          />
-        }
+        <div style={{transform: 'translateY(50%)', marginBottom: '150px'}}>
+          {userConfig.showHeaderImage && (
+            <HeaderImage/>
+          )}
+          <H1><Link to="/">{author}</Link></H1>
+          <P>{description}</P>
+          {social &&
+            <Social
+              // website={social.website}
+              github={social.github}
+              twitter={social.twitter}
+              linkedin={social.linkedin}
+            />
+          }
+        </div>
+        
       </Wrapper>
     </Container> 
     </div>
