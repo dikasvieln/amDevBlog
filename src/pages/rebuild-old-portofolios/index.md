@@ -8,7 +8,7 @@ Lately, I did re-work for my last 2 portfolios of web design then I published th
 Besides all those things, I keep doing re-learn my FE hard skill by using codewars, leetcode, and hackerrank. So that I can strengthen and keep updated on the FE's latest tech so far. Hope I can join again with some other amazing, experience and multi-talented engineer peoples
 Last but not least, find my latest portfolios on these links below
 
-(link 1)[https://sample-lp-infografis.netlify.app]
-(link 2)[http://tsom-project.netlify.app]
+[link1](https://sample-lp-infografis.netlify.app)
+[link2](http://tsom-project.netlify.app)
 
 Thanks for reading my blog notes!!
