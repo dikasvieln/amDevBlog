@@ -16,14 +16,7 @@ pertama, ialah membuat diri anda bukanlah Tuhan dan yang kedua apabila saya mema
 Ingatlah selalu kita sebagai manusia hanya bisa merencenakan yang terbaik dan pada akhirnya adalah hasil ada di tangan Tuhan YME. 
 Dan tekankan selalu bahwa ekspektasi yang anda buat bisa menjadi pelajaran berharga untuk kehidupan anda selanjutnya.
 
-ref:
+ref: 
+
 Hauck, Paul, "Tenangkan Diri - Mengatasi Frustasi dan Kemarahan" (1984)
 [Sumber Artikel](https://medium.com/lady-vivra/how-to-be-realistically-optimistic-908e20a89bdc)
-
-
-## outline
-# a little bit back story
-# how is the day so far
-# kind of tips with some case
-# motivation stuff 
-# try share some referencess
