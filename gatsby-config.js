@@ -14,6 +14,18 @@ module.exports = {
       {
         name: 'Portfolios',
         link: '/portfolios'
+      },
+      // {
+      //   name: 'About Me',
+      //   link: '#'
+      // },
+      {
+        name: 'Twitter',
+        link: '#'
+      },
+      {
+        name: 'Github',
+        link: '#'
       }
     ],
     author: userConfig.author,
