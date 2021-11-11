@@ -1,5 +1,7 @@
 import styled from 'styled-components'
 
-const linkNav = styled.a``;
+const linkNav = styled.a`
+	
+`;
 
 export default linkNav
