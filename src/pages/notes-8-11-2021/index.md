@@ -9,19 +9,19 @@ Hi, Morning/Afternoon/Night everyone. For the last couple of months, I've access
 There are so many websites that can improve your algorithm thinking. So far that I know, many programmers have been knowing about hackerrank, codewars, freecodecamp and so on which is they provide an online practice site for newbie or experienced developers to improve their logic skills. But, there is some site that only provides a specific skill such as CSS, which you can access for free.
 
 <!-- 3. CSSBattle dev -->
-1. CSSBattle Dev
+1. [CSSBattle Dev](https://cssbattle.dev/)
 This website was to be my favorite to learn CSS. The term is simple which is your code must be matched with the given result. The first time I do code and mixed match the expected result somehow I feel a little bit of lack of CSS acknowledged. The Imposter syndrome caught me in while trying to find the best CSS syntax. But after I've got matched the expected result that makes me feel want to do another CSS challenge. My verdict was about at 8.0 for this CSS online editor.
 
 <!-- 4. CSS Dinner -->
-2. CSS Dinner
+2. [CSS Dinner](https://flukeout.github.io/)
 The CSS Dinner was meant for newbies who want to learn about web dev.
 
 <!-- 5. CSS Grid Garden -->
-3. cssgridgarden
+3. [cssgridgarden](http://cssgridgarden.com/)
 cssgridgarden was under a big community that they are shared a bunch of tips and tricks about how to use CSS especially grid property. 
 
 <!-- 6. Flexbox Froggy -->
-4. flexboxfroggy
+4. [flexboxfroggy](https://flexboxfroggy.com/)
 flexboxfroggy was another site and as the same as a big community who are involved in cssgridgarden. But, this site was technically for web dev who wants to learn about CSS property especially display flex property.
 
 <!-- 7. Conclusion -->
