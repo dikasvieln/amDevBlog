@@ -4,7 +4,7 @@ date: "2021-11-20"
 ---
 
 
-Hi, Morning/Afternoon/Night everyone. For the last couple of months, I've accessed an online editor website. And I'll share it with you which maybe would be the best website online editor for practicing FE(Front-End) skills especially for CSS 
+Hi, everyone. For the last couple of months, I've been accessing an online editor website. And I'll share it to you which maybe would be the best website online editor for practicing FE(Front-End) skills especially for CSS 
 
 There are so many websites that can improve your algorithm thinking. So far that I know, many programmers have been knowing about hackerrank, codewars, freecodecamp and so on which is they provide an online practice site for newbie or experienced developers to improve their logic skills. But, there is some site that only provides a specific skill such as CSS, which you can access for free.
 

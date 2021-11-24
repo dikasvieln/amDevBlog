@@ -20,7 +20,7 @@ const Article = styled.article`
     font-size: 30px;
     font-weight: 700;
     line-height: 1.5;
-    margin: 25px 50px 15px;
+    margin: 25px 20px 15px;
   }
 
   h2 {
@@ -28,7 +28,7 @@ const Article = styled.article`
     font-size: 22px;
     font-weight: 700;
     line-height: 1.5;
-    margin: 25px 50px 15px;
+    margin: 25px 20px 15px;
   }
 
   h3 {
@@ -36,14 +36,14 @@ const Article = styled.article`
     font-size: 17px;
     font-weight: 700;
     line-height: 1.5;
-    margin: 25px 50px 15px;
+    margin: 25px 20px 15px;
   }
 
   h4 {
     color: #3e465b;
     font-weight: 700;
     line-height: 1.5;
-    margin: 25px 50px 15px;
+    margin: 25px 20px 15px;
   }
 
   h5,
@@ -56,7 +56,8 @@ const Article = styled.article`
 
   p {
     line-height: 1.7;
-    margin: 15px 50px;
+    // margin: 15px 50px;
+    margin: 15px 20px;
   }
 
   blockquote {
@@ -74,7 +75,7 @@ const Article = styled.article`
   ol {
     line-height: 1.7;
     margin: 15px 0;
-    padding: 0 50px 0 100px;
+    padding: 0 20px 0 50px;
 
     p,
     ul,
@@ -91,6 +92,8 @@ const Article = styled.article`
   img {
     margin: 15px 0;
   }
+
+  
 `;
 
 export default Article;
