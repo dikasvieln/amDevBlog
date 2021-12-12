@@ -13,4 +13,4 @@ module.exports = {
   },
   pathPrefix: '/devblog',
   siteUrl: 'https://amdika.github.io/amDevBlog/',
-};
+}
