@@ -21,11 +21,11 @@ module.exports = {
       // },
       {
         name: 'Twitter',
-        link: '#'
+        link: 'http://twitter.com/@_auliamahardika'
       },
       {
         name: 'Github',
-        link: '#'
+        link: 'http://github.com/amdika'
       }
     ],
     author: userConfig.author,
