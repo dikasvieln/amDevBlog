@@ -26,7 +26,7 @@ Not to be popular as both above node js framework. This Node JS framework is bui
 It's carrying concept of MVC(Model View Controller) pattern and follows the principle of "convention over configuration"
 
 5. Meteor JS  
-Was to be meants as platform for building large scale apps using Node JS. 
+Was meant to be as platform for building large scale apps using Node JS. 
 
 6. Nest JS  
 It's called to be progressive Node JS framework for building efficient, reliable and scalable server-side apps
