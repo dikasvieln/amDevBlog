@@ -34,6 +34,8 @@ It's called to be progressive Node JS framework for building efficient, reliable
 7. Egg JS  
 Made for building enterprise application and framework. In Egg JS, there is plugin mechanism that can be extensible and customizing the configurations according to their own business scenario.
 
+And if there is any necessary detail that I missed or any further discussion about Node.js framework itself. It will be in the next article. lastly, If there is any word or grammar that might find you not good. I'm so glad to listen what you thought on below comment section. Thanks for reading my article. GBU.
+
 ref:  
 [node js frameworks](https://hackr.io/blog/nodejs-frameworks), accessed on 01/02/2022  
 [eggs js](https://eggjs.org/en/intro/index.html), accessed on 01/02/2022  
