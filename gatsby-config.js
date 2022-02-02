@@ -15,18 +15,15 @@ module.exports = {
         name: 'Portfolios',
         link: '/portfolios'
       },
-      // {
-      //   name: 'About Me',
-      //   link: '#'
-      // },
       {
-        name: 'Twitter',
-        link: 'http://twitter.com/@_auliamahardika'
+        name: 'Article',
+        link: '#'
       },
       {
-        name: 'Github',
-        link: 'http://github.com/amdika'
+        name: 'Contact Me',
+        link: "#"
       }
+      
     ],
     author: userConfig.author,
     description: userConfig.description,
