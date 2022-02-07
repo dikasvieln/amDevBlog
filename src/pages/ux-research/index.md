@@ -7,7 +7,7 @@ Hi folks, this week will be discuss about user experience research or in short c
 Me as UI UX dev Enthusiast really often curious about UX Research and all study about it. So with this article that I've been gathering from other sources hopefully might be useful for the reader. 
 
 ## Definition
-As definition about UX Research it is a field study to undestanding best approach of human insights and journey to meet their requirement and realistic context for a better design process. 
+As definition about UX Research it is a field study to understanding best approach of human insights and journey to meet their requirement and realistic context for a better design process. 
 
 UX research can be various and daunting because the behaviors, motivations and needs to be generated as insight about your users. The process of UX research can be categorize as flow by including user interview, surveysm focus groupsm card sorting, usability testing, and more.
 
@@ -27,9 +27,9 @@ A study about UX Research that you will observed through what user do.
 
 Here is below graph of UX Research.
 ![image](https://www.datocms-assets.com/38511/1634049451-ux-research-methods.png?auto=format&dpr=0.4&w=5001)
-
+__source img: UX Research method__
 ## Throughout of Development UX Research
-while during the process of UX research, you can determine and identifies of project four stages. And here is below key method are:
+while during the process of UX research, you can determine and identifies of the project by breakdown into four stages segment. And here is below key method are:
 
 1. Discover  
 Determine which is relevant for users.
@@ -49,4 +49,8 @@ Examine how to address all users
 Put an issues and notice the problem
 
 
-Whichever UX Research can be many ways and various methods. And if you have any thoughts and opinionyou may have your comment below. Thank you for reading my article GBU.
+Whoever UX Research can be many ways and various methods. And if you have any thoughts and opinionyou may have your comment below. Thank you for reading my article GBU.
+
+source:  
+[UX Research Foundation](https://www.interaction-design.org/literature/topics/ux-research) accessed at 07/02/2022  
+[UX Research Method](https://maze.co/guides/ux-research/ux-research-methods/) accessed at 07/02/2022  
