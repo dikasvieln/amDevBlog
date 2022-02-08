@@ -4,12 +4,12 @@ date: 2022-02-15
 ---
 
 Hi folks, this week will be discussing about user experience research or in short called UX Research. 
-As an UI UX dev Enthusiast, I'm often curious about UX Research and all study about it. So with this article, Hopefuly that you find it useful as an introduction about UX Research. 
+As an UI UX dev Enthusiast, I'm often curious about UX Research and all study about it. Hopefuly, you'll find it useful as a new UX Researcher. 
 
 ## Definition
-As definition about UX Research it is a field study to understanding best approach of human insights and journey to meet their requirement and realistic context for a better design process. 
+The definition of UX Research is a field study to understand the best approach of human insights and journey to meet their requirement and realistic context for a better design process. 
 
-UX research can be various and daunting because the behaviors, motivations and needs to be generated as insight about your users. The process of UX research can be categorize as flow by including user interview, surveysm focus groupsm card sorting, usability testing, and more.
+UX research can be various and daunting because of the behaviors, motivations, and needs to be generated as insight about your users. The process of UX research can be categorized as flow by including user interviews, surveys focus on groups card sorting, usability testing, and more.
 
 ## Stages of UX Flow
 The stages of UX Research could begin with qualitative measures, to determine the needs and motivation so it will be describe the purpose of the result design process meant to be. After that, by using quantitative measures to make sure the test will result in real data. 
@@ -31,22 +31,22 @@ __source img: UX Research method__
 ## Throughout of Development UX Research
 while during the process of UX research, you can determine and identifies of the project by breakdown into four stages segment. And here is below key method are:
 
-1. Discover  
+A. Discover  
 Determine which is relevant for users.
-- contextual inquiries - interview suitable users in their own
-- Diary studies - have user records their daily interactions  with a design or log their performance activity
+- 	contextual inquiries - interview suitable users in their own
+- 	Diary studies - have user records their daily interactions  with a design or log their performance activity
 
-2. Explore  
+B. Explore  
 Examine how to address all users
-- Card sorting - write word and phrases on cards, then let participants organize them in the most meaningful way and label.
-- Customer journey map - Create user journey to expose potential pitfall
+- 	Card sorting - write word and phrases on cards, then let participants organize them in the most meaningful way and label.
+- 	Customer journey map - Create user journey to expose potential pitfall
 
-3. Test  
-- Usability Test - Ensure your design is easy to use
-- Accesbility evaluations - Test your design to ensure it's accesible to everyone
+C. Testing 
+- 	Usability Test - Ensure your design is easy to use
+- 	Accesbility evaluations - Test your design to ensure it's accesible to everyone
 
-4. Listen  
-Put an issues and notice the problem
+D. Listen 
+- 	Put an issues and notice the problem
 
 
 Whoever UX Research can be many ways and various methods. And if you have any thoughts and opinionyou may have your comment below. Thank you for reading my article GBU.
