@@ -3,8 +3,8 @@ title: Study UX Research
 date: 2022-02-15
 ---
 
-Hi folks, this week will be discuss about user experience research or in short called UX Research. 
-Me as UI UX dev Enthusiast really often curious about UX Research and all study about it. So with this article that I've been gathering from other sources hopefully might be useful for the reader. 
+Hi folks, this week will be discussing about user experience research or in short called UX Research. 
+As an UI UX dev Enthusiast, I'm often curious about UX Research and all study about it. So with this article, Hopefuly that you find it useful as an introduction about UX Research. 
 
 ## Definition
 As definition about UX Research it is a field study to understanding best approach of human insights and journey to meet their requirement and realistic context for a better design process. 
