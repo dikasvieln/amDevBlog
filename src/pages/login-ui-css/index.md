@@ -1,6 +1,6 @@
 ---
 title: UI Login with CSS Animation
-date: "2022-02-29"
+date: "2022-02-28"
 ---
 
 Hi, reader. This week I'll share about UI login with CSS3 animation. This component UI will trigger CSS3 animation if you are hovering one of the input type.
